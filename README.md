@@ -1,5 +1,5 @@
 <br />
-  <h2 align="center">Schneider Electric European Hackathon</h1>
+  <h2 align="center">Schneider Electric European Hackathon</h2>
   <p align="center">
     <a href="https://nuwe.io/dev/event/schneider-electric-european-hackathon"><strong>Zero Deforestation Mission</strong></a>
     <br />
