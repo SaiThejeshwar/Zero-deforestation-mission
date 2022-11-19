@@ -77,7 +77,7 @@ _Please clone the git repository using the following commands_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   https://github.com/SaiThejeshwar/Zero-deforestation-mission.git
    ```
 2. Execute The Jupyter Notebook
    ```sh
