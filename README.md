@@ -84,10 +84,8 @@ _Please clone the git repository using the following commands_
    ```sh
    https://github.com/SaiThejeshwar/Zero-deforestation-mission.git
    ```
-2. Execute The Jupyter Notebook
-   ```sh
-   npm install
-   ```
+2. Execute The Jupyter Notebook main.ipynb. 
+- Please download the models from the google drive here - https://drive.google.com/drive/folders/1Wf90C44Y5lnbjp_iREDk7BW0w8966QEg?usp=share_link
 
 <!-- ROADMAP -->
 ## Project Flow
