@@ -6,6 +6,13 @@
   </p>
 </div>
 
+## Team name: ZeroOne
+#### Members:
+- Sai Thejeshwar
+- Abhay Joshi
+
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
 
@@ -30,8 +37,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -66,9 +71,9 @@ The challenge consists in creating an image classification model, which from a g
 ### Prerequisites
 
 Please install the requisite packages using the following instructions:
-* npm
+* sklearn, kears, numpy, pandas. The requirements.txt has can be directly installed using the below command
   ```sh
-  npm install npm@latest -g
+  pip install -r requirements.txt
   ```
 
 ### Installation
@@ -91,8 +96,8 @@ _Please clone the git repository using the following commands_
 - [x] Create An Image Classification Prediction Model
 - [x] Train The Model With The Training Images
 - [x] Find The Model That Maximizes The F1-Score (macro.) - also evaluate ensemble learning
-- [ ] Test The Model To Classify The Testing Images
-- [ ] Evaluate The F1-Score Of The Model With The Test Images
+- [x] Test The Model To Classify The Testing Images
+- [x] Evaluate The F1-Score Of The Model With The Test Images
 <!-- LICENSE -->
 ## License
 
