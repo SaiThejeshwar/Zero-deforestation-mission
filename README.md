@@ -50,7 +50,7 @@ The dataset attributes that was used to build the project consisted of the follo
 -   **year**: year, in which the photo was taken.
 -   **example_path**: path where the sample image is located.
 -   **label**: in this column you will have the following categories:
-- 
+
     -   **'Plantation'**: encoded with number 0, network of rectangular plantation blocks, connected by a well-defined road grid. In hilly areas the layout of the plantation may follow topographic features. In this group you can find: Oil Palm Plantation, Timber Plantation and Other large-scale plantations.
     -   **'Grassland/Shrubland'**: encoded with number 1, large homogeneous areas with few or sparse shrubs or trees, and which are generally persistent. Distinguished by the absence of signs of agriculture, such as clearly defined field boundaries.
     -   **'Smallholder Agriculture'**: encoded with number 2, small scale area, in which you can find deforestation covered by agriculture, mixed plantation or oil palm plantation.
